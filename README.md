@@ -17,6 +17,7 @@ There are many tools and apps built based on Steem Blockchain. It would be diffi
 * [ChainBB](https://chainbb.com) - Decentralized Forum Software
 * [Zappl](https://zappl.com/) - Micro blogging platform
 * [SteepShot](https://steepshot.io/) - Share moments through Images. Similar to Instagram.
+* [steem.rocks](http://steem.rocks) - Activity feed for steem accounts.
 
 # Contributions
 
