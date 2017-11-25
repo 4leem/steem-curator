@@ -2,7 +2,7 @@
 
 Curated list of Steem Blockchain tools and apps.
 
-# Tools and Apps
+# Applications
 
 There are many tools and apps built based on Steem Blockchain. It would be difficult to keep track of all the apps hence this repo will serve as collection of all the useful apps and tools based on Steem Blockchain.
 
@@ -18,7 +18,7 @@ There are many tools and apps built based on Steem Blockchain. It would be diffi
 * [Zappl](https://zappl.com/) - Micro blogging platform
 * [SteepShot](https://steepshot.io/) - Share moments through Images. Similar to Instagram.
 
-
+# Tools
 * [SteemNow](https://steemnow.com/) - Activity feed, know about value of vote, voting power etc.
 * [Steem Voter](https://steemvoter.com/) - Automated voting bot
 * [steem.rocks](http://steem.rocks) - Activity feed for steem accounts.
