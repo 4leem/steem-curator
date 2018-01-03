@@ -23,8 +23,11 @@ There are many tools and apps built based on Steem Blockchain. It would be diffi
 * [SteemNow](https://steemnow.com/) - Activity feed, know about value of vote, voting power etc.
 * [Steem Voter](https://steemvoter.com/) - Automated voting service. Set rules for automatically upvote posts by favorite author.
 * [Steem Bot Tracker](https://s3.amazonaws.com/yabapmatt/bottracker/bottracker.html) - Get information on voting bots to profitably promote your posts on Steem!
+* [Steem World](https://steemworld.org) - Comprehensive dashboard for all your steem activity.
 * [steem.rocks](http://steem.rocks) - Activity feed for steem accounts.
 * [SteemWatch](https://steemwatch.com) - Notification service.
+* [SteemDollar](http://www.steemdollar.com/) - Get the latest price of STEEM and SBD, convertor to calculate vests to SP.
+* [Steemit Followers Ranking](http://mysteemitfriends.online/followers.php) - Steemit user ranking based on followers.
 
 # Contributions
 
