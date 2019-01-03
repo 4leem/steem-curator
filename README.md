@@ -14,10 +14,14 @@ There are many tools and apps built based on Steem Blockchain. It would be diffi
 * [Steemit.Chat](https://steemit.chat) - Chat platform to interact with others(Rocket.chat)
 * [Utopian](https://utopian.io/) - Rewards for making contributions to Open Source projects.
 * [DTube](https://d.tube/) - Social video platform.
-* [eSteem](https://www.esteem.ws/) - Native iOS and Android app for Steem.
-* [ChainBB](https://chainbb.com) - Decentralized Forum Software
-* [Zappl](https://zappl.com/) - Micro blogging platform
+* [eSteem](https://esteem.app/) - Native iOS, Android and desktop app for Steem.
 * [SteepShot](https://steepshot.io/) - Share moments through Images. Similar to Instagram.
+* [Steem Monsters](https://steemmonsters.com/) - A multiplayer card game with rich graphics.
+* [Partiko](https://partiko.app/) - Mobile app for Steem
+* [Magic Dice](https://magic-dice.com/) - Provably fair and transparent dice game
+* [Actifit](https://actifit.io/) - Rewarding everyday activity(walking, jogging, swimming etc)
+* [Steempress](https://wordpress.org/plugins/steempress/) - A WordPress plugin connecting WordPress and Steem
+* [Musing](https://musing.io/) - Similar to Quora. Ask Questions. Write Answers. Earn Cryptocurrency.
 
 ### Tools
 * [SteemNow](https://steemnow.com/) - Activity feed, know about value of vote, voting power etc.
